@@ -6,6 +6,6 @@ class Git
 {
     public function name(): string 
     {
-        return 'Jonathan Xavier';
+        return 'Jonathan';
     }
 }
