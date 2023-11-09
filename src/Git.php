@@ -13,4 +13,9 @@ class Git
     {
         return 'Xavier';
     }
+
+    public function lastName(): string 
+    {
+        return 'Ribeiro';
+    }
 }
