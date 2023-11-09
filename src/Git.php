@@ -8,4 +8,9 @@ class Git
     {
         return 'Jonathan';
     }
+
+    public function middleName(): string 
+    {
+        return 'Xavier';
+    }
 }
